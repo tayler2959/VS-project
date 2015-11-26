@@ -13,6 +13,8 @@ namespace VS_project
             Console.WriteLine("Вывод текста на экран");
 
             Console.WriteLine("Изменения в коде");
+
+            Console.ReadLine();
         }
     }
 }
