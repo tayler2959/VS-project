@@ -1,2 +1,0 @@
-D:\My\Обучение С#\Git\VS-project\VS-project\VS-project\bin\Debug\VS-project.exe.config
-D:\My\Обучение С#\Git\VS-project\VS-project.git\VS-project\bin\Debug\VS-project.exe.config
