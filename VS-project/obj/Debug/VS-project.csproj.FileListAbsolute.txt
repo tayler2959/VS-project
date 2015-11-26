@@ -1,7 +1,0 @@
-D:\My\Обучение С#\Git\VS-project\VS-project\VS-project\bin\Debug\VS-project.exe.config
-D:\My\Обучение С#\Git\VS-project\VS-project.git\VS-project\bin\Debug\VS-project.exe.config
-D:\My\Обучение С#\Git\VS-project\VS-project.git\VS-project\bin\Debug\VS-project.exe
-D:\My\Обучение С#\Git\VS-project\VS-project.git\VS-project\bin\Debug\VS-project.pdb
-D:\My\Обучение С#\Git\VS-project\VS-project.git\VS-project\obj\Debug\VS-project.csprojResolveAssemblyReference.cache
-D:\My\Обучение С#\Git\VS-project\VS-project.git\VS-project\obj\Debug\VS-project.exe
-D:\My\Обучение С#\Git\VS-project\VS-project.git\VS-project\obj\Debug\VS-project.pdb
