@@ -11,6 +11,8 @@ namespace VS_project
         static void Main(string[] args)
         {
             Console.WriteLine("Вывод текста на экран");
+
+            Console.WriteLine("Изменения в коде");
         }
     }
 }
